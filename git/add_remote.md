@@ -1,0 +1,3 @@
+Add remote:
+
+    git remote add origin https://repo-url...
