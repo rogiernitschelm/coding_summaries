@@ -21,3 +21,11 @@ CREATE TABLE person
  age number(3),
  birthdate date
 );
+
+-- CREATE TABLE AUTOINCREMENT, PRIMARY KEY
+
+CREATE TABLE person
+(id INTEGER PRIMARY KEY AUTOINCREMENT
+ name TEXT
+ age INTEGER
+)
